@@ -1,0 +1,10 @@
+{
+    "name": "matchilling/styleguide",
+    "description": "My most reasonable approach to php.",
+    "homepage": "https://www.matchilling.com",
+    "keywords": ["php", "styleguide"],
+    "license": "GPL-3.0+",
+    "require": {
+        "php": "~5.6"
+    }
+}
